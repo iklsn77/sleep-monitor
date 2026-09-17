@@ -108,3 +108,16 @@ npm run preview    # 预览构建产物
 ## 📄 License
 
 MIT © 2025
+
+---
+
+## 🌐 线上 Demo
+
+> 部署至 GitHub Pages 后，可在此访问在线演示（将 `<username>` 替换为你的 GitHub 用户名）：
+>
+> https://<username>.github.io/sleep-monitor/
+>
+> 仓库截图：
+> ![preview](docs/preview.png)
+
+> 本项目为原创高保真原型，用于作品集展示与技术复盘，数据均为本地可复现的 Mock 数据，不含任何真实用户隐私信息。
